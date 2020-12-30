@@ -3,6 +3,7 @@
 
 ## based on node.js, Cheerio and express.js. And if there are right readability node.js library available try first.
 - https://github.com/luin/readability this looks great
+  This works fine for xueqiu, but not for SA.Checking works or not on wechat articles
 - https://github.com/bndr/node-read might worth a try
 - https://github.com/mozilla/readability
 - Maybe try myself for some specific website only.
