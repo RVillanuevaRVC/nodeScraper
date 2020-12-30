@@ -5,6 +5,7 @@
 - https://github.com/luin/readability this looks great
   This works fine for xueqiu, but not for SA.Checking works or not on wechat articles
 - https://github.com/bndr/node-read might worth a try
+  This also works fine with XQ and similar result to WC, but also not work to SA
 - https://github.com/mozilla/readability
 - Maybe try myself for some specific website only.
 
