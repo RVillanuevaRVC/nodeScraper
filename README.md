@@ -17,4 +17,6 @@ Reference discussion: https://stackoverflow.com/questions/8726079/how-can-i-scra
  Option 3 Using NightmareJs
  Option 4: Using SuperAgent for agent is then a persistent browser, which will handle getting and setting cookies, referers, etc. Just agent.get, agent.post() as normal.
  
+ reference: https://github.com/luhongchun/blog/blob/master/node_login/login.js
+ 
 ## Module 2: Scraper 10-k data from yahoo or SEC
