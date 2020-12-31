@@ -9,4 +9,12 @@
 - https://github.com/mozilla/readability
 - Maybe try myself for some specific website only.
 
+For authentication requested site, like SA, AR3000 etc,try:
+Reference discussion: https://stackoverflow.com/questions/8726079/how-can-i-scrape-sites-that-require-authentication-using-node-js
+  How can I scrape sites that require authentication using node.js?
+ Option 1: Use Mikeal's Request library, you need to enable cookies support
+ Option 2:Using Puppeteer
+ Option 3 Using NightmareJs
+ Option 4: Using SuperAgent for agent is then a persistent browser, which will handle getting and setting cookies, referers, etc. Just agent.get, agent.post() as normal.
+ 
 ## Module 2: Scraper 10-k data from yahoo or SEC
